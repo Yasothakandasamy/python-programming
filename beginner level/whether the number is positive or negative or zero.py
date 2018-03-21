@@ -1,7 +1,7 @@
-a=int(raw_input())
+z=int(raw_input())
 if(a>=1):
-    print("a is positive")
-if(a<=-1):
-    print("a is negative")
-if(a==0):
-    print("a is zero")
+    print("z is positive")
+if(z<=-1):
+    print("z is negative")
+if(z==0):
+    print("z is zero")
