@@ -1,7 +1,7 @@
-a=int(raw_input())
-b=int(raw_input())
-c=a-b
-if(c%2==0):
+g=int(raw_input())
+f=int(raw_input())
+h=g-f
+if(h%2==0):
     print("even")
 else:
     print("odd")
